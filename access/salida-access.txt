@@ -1,0 +1,240 @@
+ DB::table('accesses')->insert([
+'person_id' => '132193320',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '119046750',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '166875331',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '119019397',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '105310013',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '162427989',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '112195335',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '170968808',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '93381807',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '155145153',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '015763433K',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '187934265',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '81601771',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '177360767',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '169269157',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '166142261',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '170930010',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '128053905',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '109367753',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '122389928',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '158101122',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '123478134',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '101516970',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '150145805',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '105229038',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '131785356',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '129733063',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '128363203',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '163508435',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
+ DB::table('accesses')->insert([
+'person_id' => '176551607',
+'closed' => 0,
+'description' => NULL,
+'delete' => false,
+'created_at'=> new DateTime,
+'updated_at'=> new DateTime
+]);
